@@ -23,7 +23,7 @@ The essential logic in removing duplicate characters is to check all the chars t
 */
 using System;
 
-class Program3
+class Program
 {
     static void Main()
     {
